@@ -120,4 +120,4 @@ FourthScenario.java (Order Creation)
 PurchaseProductEndToEndScenario.java (Comprehensive Test)
 
 pom.xml:
-Manages dependencies such as Playwright, TestNG, and JSON-handling libraries.
+Manages dependencies such as Playwright, TestNG.

@@ -26,12 +26,12 @@ public class ThirdScenario {
         new MenuBarPage(page)
                 .clickOnSignupButtonToRegister();
         new SignUpForm(page)
-                .enterDataInSignupForm("validThirdScenario","validPasword")
+                .enterDataInSignupForm("validUserThirdScenario","validPasword")
                 .submitTheSignupFormToRegister();
         new MenuBarPage(page)
                 .clickOnloginButton();
         new LoginForm(page)
-                .enterDataInLoginForm("validThirdScenario","validPasword")
+                .enterDataInLoginForm("validUserThirdScenario","validPasword")
                 .clickOnLoginFormButton();
         new MenuBarPage(page)
                 .clickOnLogoutButton();

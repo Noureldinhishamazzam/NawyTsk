@@ -24,7 +24,7 @@ public class SecondScenario {
         new MenuBarPage(page)
                 .clickOnloginButton();
         new LoginForm(page)
-                .enterDataInLoginForm("validFirstScenario","1234")
+                .enterDataInLoginForm("validUserFirstScenario","validPassword")
                 .clickOnLoginFormButton();
     }
 

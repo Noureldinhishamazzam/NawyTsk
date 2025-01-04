@@ -22,12 +22,12 @@ public class PurchaseProductEndToEndScenario {
         new MenuBarPage(page)
                 .clickOnSignupButtonToRegister();
     new SignUpForm(page)
-            .enterDataInSignupForm("validFullScenario","1234")
+            .enterDataInSignupForm("validEndToEndScenario","validPassword")
             .submitTheSignupFormToRegister();
     new MenuBarPage(page)
             .clickOnloginButton();
     new LoginForm(page)
-            .enterDataInLoginForm("validFullScenario","1234")
+            .enterDataInLoginForm("validEndToEndScenario","validPassword")
             .clickOnLoginFormButton();
         new MenuBarPage(page)
                 .clickOnLogoutButton();

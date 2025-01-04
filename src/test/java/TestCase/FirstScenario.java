@@ -24,7 +24,7 @@ public class FirstScenario {
     new MenuBarPage(page)
             .clickOnSignupButtonToRegister();
     new SignUpForm(page)
-            .enterDataInSignupForm("validFirstScenario","1234")
+            .enterDataInSignupForm("validUserFirstScenario","validPassword")
             .submitTheSignupFormToRegister();
     }
 

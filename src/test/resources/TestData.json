@@ -1,0 +1,20 @@
+{
+  "loginForm":{
+  "userNamLogin":"testUser1",
+  "passwordLogin" : "testPassword"
+},
+
+  "signupFormInformation": {
+    "userNameSignup": "testUser1",
+    "PasswordSignup": "testPassword"
+  },
+
+  "purchaseForm": {
+    "name": "testUser1",
+    "country": "egypt",
+    "city": "cairo",
+    "creditCard": "123456789",
+    "month": "12",
+    "year": "21"
+  }
+}

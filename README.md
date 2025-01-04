@@ -5,7 +5,7 @@ Dependencies: Include Playwright, TestNG, and any other required libraries like 
 Page Object Model: Implement the Page Object Model (POM) using fluent design pattern.
 Video Recording: Record test execution using a screen recording tool and uploaded on drive (https://drive.google.com/drive/folders/1nYAcxc0r269sJKKWleTLP_-omMlCuSum?usp=drive_link).
 
-Test Scenarios
+Test Scenarios:
 Scenario 1: Register with Valid Data
 Navigate to url (https://www.demoblaze.com/index.html).
 Click on Signup button on MenuBar.
@@ -34,6 +34,7 @@ Navigate to the cart and proceed to checkout.
 Fill in order details and submit.
 Click on OK button.
 
+Project Structure:
 src/
 ├── main/
 │   ├── java/

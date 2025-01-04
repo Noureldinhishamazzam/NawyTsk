@@ -32,7 +32,7 @@ Search for Apple Monitor 24.
 Add the item to the cart.
 Navigate to the cart and proceed to checkout.
 Fill in order details and submit.
-Click on OK button
+Click on OK button.
 
 src/
 ├── main/
